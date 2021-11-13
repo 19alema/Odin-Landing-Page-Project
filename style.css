@@ -355,13 +355,15 @@ footer {
 
 @media(min-width: 600px) and (max-width: 800px) {
     .hero {
-        height: 150vh;
+        height: 100vh;
         text-align: center;
     }
   .hero-box .hero-left{
       width: 70%;
   }
-   
+   .header-box .hero-right {
+       overflow: hidden;
+   }
 
     /* INFORMATION */
     .information-wrapper-box {
