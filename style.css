@@ -273,11 +273,16 @@ footer {
     /* HERO */
 
     .hero {
-        height: 80vh;
+        height: 70vh;
+        overflow: hidden;
     }
 
     .hero-box .hero-left h1 {
         font-size: 4vw;
+    }
+
+    .hero-box .hero-right {
+        overflow: hidden;
     }
 
 
