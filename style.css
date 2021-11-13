@@ -355,7 +355,7 @@ footer {
 
 @media(min-width: 600px) and (max-width: 800px) {
     .hero {
-        height: 100vh;
+        height: 150vh;
         text-align: center;
     }
   .hero-box .hero-left{
